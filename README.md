@@ -8,7 +8,9 @@
 
 > Technologies used: MongoDB (Atlas cloud), Express, React, Node + Bootstrap
 
-> Testing: 
+> Testing: Unit test
+
+> Decription: Web app powered by node (express) as a server-side and display it to the front (react). Data stored on MongoDB cloud and styling with bootstrap CSS. Helping develoeprs or people to connect each others on this application. Deployed on Heroku and tested by unit case. VCS moving from Gitlab to Github.
 
 # Checkout the flickr web app too!
 
@@ -20,7 +22,9 @@
 
 > Technologies used: React + Flickr API
 
-> Testing:
+> Testing: Unit test
+
+> Decription: Web app powered by react and Flickr API to display a photos. Bonus functions/features are users can implement tag searching on the image and click enter to find their selected photos. User also can find the photo displayed only one and can do pagination (prev, next)
 
 ## Quick Start
 
@@ -40,4 +44,4 @@ npm run dev
 
 ### License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License, Deary Herdiano.
