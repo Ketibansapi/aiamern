@@ -1,7 +1,26 @@
-# Profilizer
+# AIA_Fullstack101
 
-> An amazing web application for creating profile and start social networking
+> Build a full-stack web application for social networking powered by MERN stack
 
+> Deployed link:
+
+> Source code:
+
+> Technologies used:
+
+> Testing: 
+
+# Checkout the flickr web app too!
+
+> Build a react application implemented with flickr API to boost the photos
+
+> Deployed link:
+
+> Source code:
+
+> Technologies used:
+
+> Testing:
 
 ## Quick Start
 
