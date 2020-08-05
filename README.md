@@ -2,7 +2,7 @@
 
 > Build a full-stack web application for social networking powered by MERN stack
 
-> Deployed link:https://trooperz-rest.herokuapp.com/
+> Deployed link: https://trooperz-rest.herokuapp.com/
 
 > Source code: https://github.com/Ketibansapi/aiamern
 
