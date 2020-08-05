@@ -16,7 +16,7 @@
 
 > Build a react application implemented with flickr API to boost the photos
 
-> Deployed link:
+> Deployed link: [currently cannot be deployed because of the limit on Heroku's project]
 
 > Source code: https://github.com/Ketibansapi/aiaflickr
 
