@@ -2,11 +2,11 @@
 
 > Build a full-stack web application for social networking powered by MERN stack
 
-> Deployed link:
+> Deployed link:https://trooperz-rest.herokuapp.com/
 
-> Source code:
+> Source code: https://github.com/Ketibansapi/aiamern
 
-> Technologies used:
+> Technologies used: MongoDB (Atlas cloud), Express, React, Node + Bootstrap
 
 > Testing: 
 
@@ -16,9 +16,9 @@
 
 > Deployed link:
 
-> Source code:
+> Source code: https://github.com/Ketibansapi/aiaflickr
 
-> Technologies used:
+> Technologies used: React + Flickr API
 
 > Testing:
 
