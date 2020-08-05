@@ -42,6 +42,14 @@ npm run dev
 
 ```
 
+## Screenshots
+
+```bash
+![Screenshot (15)](https://user-images.githubusercontent.com/42229194/89454890-96e16000-d78b-11ea-9ab3-17ae742558a2.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/42229194/89454896-99dc5080-d78b-11ea-8d0c-53539fe0cc4d.png)
+
+```
+
 ### License
 
 This project is licensed under the MIT License, Deary Herdiano.
