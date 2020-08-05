@@ -44,7 +44,8 @@ npm run dev
 
 ## Screenshots
 
-![Screenshot (15)](https://user-images.githubusercontent.com/42229194/89454890-96e16000-d78b-11ea-9ab3-17ae742558a2.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/42229194/89455062-e6c02700-d78b-11ea-9565-b3f44e0f78a1.png)
+
 ![Screenshot (18)](https://user-images.githubusercontent.com/42229194/89454896-99dc5080-d78b-11ea-8d0c-53539fe0cc4d.png)
 
 
